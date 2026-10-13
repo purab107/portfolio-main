@@ -1,0 +1,8 @@
+allowBuilds:
+  unrs-resolver: set this to true or false
+minimumReleaseAgeExclude:
+  - '@radix-ui/react-avatar@1.3.1'
+  - '@radix-ui/react-dismissable-layer@1.2.1'
+  - '@radix-ui/react-focus-scope@1.3.1'
+  - '@radix-ui/react-tooltip@1.4.1'
+  - lucide-react@1.56.0
